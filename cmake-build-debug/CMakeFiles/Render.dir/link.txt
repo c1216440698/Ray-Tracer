@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Render.dir/main.cpp.o  -o Render 
